@@ -1,0 +1,33 @@
+{
+  "name": "story-analytics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdwang/story-analytics.git"
+  },
+  "author": "Si Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdwang/story-analytics/issues"
+  },
+  "homepage": "https://github.com/sdwang/story-analytics#readme",
+  "dependencies": {
+    "electron": "^1.6.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "webpack": "^2.3.0"
+  }
+}
