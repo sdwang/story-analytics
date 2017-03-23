@@ -1,1 +1,13 @@
 @import url("./css-reset.css");
+
+/*****
+Global
+*****/
+
+.remove {
+  display: none;
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
