@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sdwang/story-analytics#readme",
   "dependencies": {
-    "electron": "^1.6.2",
+    "electron": "^9.1.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
